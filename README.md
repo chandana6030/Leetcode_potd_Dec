@@ -1,2 +1,2 @@
-Leetcode Daily Challenge in December 2024.
+Leetcode Daily Challenge.
 Here are the solutions, You can check and practice.
